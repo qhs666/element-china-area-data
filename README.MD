@@ -169,3 +169,6 @@ value是区域码`"110000"`
 `npm run dev` 是开发
 
 `npm run build` + `npm run build-commonjs` + `npm run docs` 是准备发布
+
+## 补充（2019-04-26）
+在china-area-data v4基础上增加了部分数据
